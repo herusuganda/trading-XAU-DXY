@@ -1,0 +1,2 @@
+# trading-XAU-DXY
+TRADING
