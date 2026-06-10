@@ -1,0 +1,5 @@
+trading-dashboard/
+├── index.html          # Halaman utama dashboard
+├── dashboard.js        # Logika utama dan integrasi API
+├── proxy-server.js     # Server proxy Node.js untuk mengatasi CORS
+└── package.json        # Dependensi Node.js

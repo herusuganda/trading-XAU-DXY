@@ -1,0 +1,16 @@
+{
+  "name": "trading-dashboard",
+  "version": "1.0.0",
+  "description": "Trading dashboard with TradingView charts and real-time data",
+  "main": "proxy-server.js",
+  "scripts": {
+    "start": "node proxy-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^21.0.0"
+  }
+}

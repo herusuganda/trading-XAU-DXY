@@ -1,0 +1,7 @@
+# Clone atau buat folder trading-dashboard
+mkdir trading-dashboard
+cd trading-dashboard
+
+# Install dependensi
+npm init -y
+npm install express axios cors cheerio puppeteer

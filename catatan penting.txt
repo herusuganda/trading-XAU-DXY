@@ -1,0 +1,7 @@
+⚠️ Catatan Penting
+Aspek	Penjelasan
+API Key	Beberapa API mungkin memerlukan API key (GoldPrice.Today, Barchart). Daftar gratis di situs masing-masing
+CORS	Proxy server diperlukan untuk menghindari CORS. Pastikan node proxy-server.js berjalan sebelum membuka dashboard
+Rate Limit	API gratis memiliki batasan request. Sesuaikan interval refresh jika diperlukan
+Data US10Y	Untuk Real Yield (TIPS) yang akurat, disarankan menggunakan sumber data berbayar seperti Bloomberg
+Sistem ini siap digunakan. Jalankan node proxy-server.js lalu buka index.html di browser. Semua fitur akan berfungsi dengan data real-time dari berbagai sumber API.
